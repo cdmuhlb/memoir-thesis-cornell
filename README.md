@@ -32,5 +32,8 @@ Notes
   by the American Physical Society's "Physical Review" journals.  While it may
   not be ideally suited for a dissertation's bibliography, it does make good use
   of the `doi` and arXiv-related fields.
+* The `apsrev4-1` bibliography style emphasizes "et al.," which violates many
+  style guidelines.  A custom `.bst` file can remove this emphasis (and may be
+  added in the future).
 * No thesis using this template has yet been submitted, so I cannot guarantee
   that it meets all of the formatting requirements at this time.
